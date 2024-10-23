@@ -36,3 +36,12 @@ suspected, charges may be filed against me without prior notice.”
 
 ## Note
 I am attempting this from scratch, I will compare it to my last semester repository and make any corrections needed based on that. I really wanted to make this one short and to the point.
+
+## Answer
+# 1
+$\Theta(log(n))$
+# 2
+$\Theta(n)$
+# 3
+$\Theta(nlog(n))$
+
